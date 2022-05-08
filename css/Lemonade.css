@@ -1,0 +1,97 @@
+h1 {
+    text-align:center;
+    color: #161805;
+    text-decoration: overline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align:center;
+    color: #161805;
+    padding: 2px 0px 0px 0px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    text-align: center;
+    color: #161805;
+    padding: 2px 0px 0px 5px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+background-color: rgb(218, 92, 20);
+}
+
+.block {
+    border-radius: 30px;
+    width: 200px;
+    box-shadow: 0 0 0 4px #d6d07d, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+}
+.b {
+    border-radius: 30px;
+    width: 200px;
+    box-shadow: 0 0 0 4px #d6d07d, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+}
+.bl {
+    border-radius: 30px;
+    width: 200px;
+    box-shadow: 0 0 0 4px #d6d07d, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+}
+
+.r {
+    float: center;
+    margin: 0px 27px 0px 27px;
+    color: #161805;
+    font-size: 30px;
+    background: #8db337; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    box-shadow: 0 0 0 4px #1c3642, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+      color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Ingredients {
+    float: left;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;
+    background: #4383a0; 
+    font-size: 20px; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    float:left;
+    box-shadow: 0 0 0 4px #1b220a, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+      color: rgb(0, 0, 0);
+      font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Instructions {
+    float: right;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;
+    background: #4383a0; 
+    font-size: 20px; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    box-shadow: 0 0 0 4px #1b220a, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+      color: rgb(0, 0, 0);
+      font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.p {
+    text-align:left;
+    color: #161805;
+    font-size: 30px;
+    padding: 5px 20px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}

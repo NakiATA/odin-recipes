@@ -1,0 +1,89 @@
+
+h1 {
+    text-align:center;
+    color: #000000;
+    text-decoration: overline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align:center;
+    color: #161805;
+    padding: 2px 0px 0px 0px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: center;
+    color: #161805;
+    padding: 2px 0px 0px 5px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+body {
+background-color: rgb(89, 107, 89);
+}
+
+.block {
+    border-radius: 30px;
+    width: 200px;
+    box-shadow: 0 0 0 4px #d1b200, 2px 1px 6px 4px #491313;
+}
+.r {
+    float: center;
+    margin: 0px 27px 0px 27px;
+    color: #161805;
+    font-size: 30px;
+    background: #FFE773; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    box-shadow: 0 0 0 4px #BF3030, 2px 1px 6px 4px #491313; 
+      color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Ingredients {
+    float: left;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;
+    background: #BF3030; 
+    font-size: 20px; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    float:left;
+    box-shadow: 0 0 0 4px #d1b200, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+      color: rgb(0, 0, 0);
+      font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.Instructions {
+    float: right;
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 0%;
+    background: #BF3030; 
+    font-size: 20px; 
+    border: 6px line #e5e741; 
+    border-radius: 10px; 
+    box-shadow: 0 0 0 4px #d1b200, 2px 1px 6px 4px rgba(36, 34, 12, 0.5); 
+      color: rgb(0, 0, 0);
+      font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.p {
+    text-align:left;
+    color: #161805;
+    font-size: 30px;
+    padding: 5px 20px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
